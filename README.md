@@ -46,3 +46,7 @@ mlflow server -h 0.0.0.0 --default-artifact-root s3:/mlflowtrackings3
 #set uri in your local terminal and in your code 
 
 export MLFLOW_TRACKING_URI = http://ec2-107-21-195-23.compute-1.amazonaws.com:5000/
+
+#Screenshots of MLFlow Experiments Through EC2:
+
+![image](https://github.com/user-attachments/assets/5d5adc3e-166b-487e-8e1a-e5b48281b477)
