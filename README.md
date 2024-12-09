@@ -1,5 +1,6 @@
 ### MLFlow Tracking with MLFlow on AWS
-
+### Project Objective:
+- The main is to run the experiements with "MLFlow" and storing the artifacts in S3 in AWS and from EC2, the tracking will be observed from S3. Here we are deploying the MLFlow in EC2 Instance.
 
 
 ## MLflow on AWS Setup:
