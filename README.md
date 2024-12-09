@@ -14,6 +14,12 @@
 
 ![image](https://github.com/user-attachments/assets/5d5adc3e-166b-487e-8e1a-e5b48281b477)
 
+![image](https://github.com/user-attachments/assets/5f5cf37c-804b-4a16-be37-9f44f1dcf3a0)
+
+## Artifacts Created IN S3:
+![image](https://github.com/user-attachments/assets/cc32bdbd-4963-41c7-b9fa-e14045855369)
+
+
 
 Run the following command on EC2 machine
 ```bash
